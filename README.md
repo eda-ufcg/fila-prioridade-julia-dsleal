@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Júlia da Silva Leal 
+* Email (@ccc): julia.silva.leal@ccc.ufcg.edu.br
+* Matrícula: 123110467
 
 # Roteiro: Fila de Prioridade
 
